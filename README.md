@@ -23,7 +23,7 @@ PM体系化・部下育成・技術領域の整理に活用する。
 
 ```
 pmi-learning-notes
-├── pmbok/                 # PMBOK第7版の要点・図解・まとめ
+├── pmbok/                 # PMBOK第8版の要点・図解・まとめ
 ├── agile/                 # Agile Practice Guide / Scrum / Hybrid
 ├── standards/             # PMI標準類（WBS, Risk, Schedulingなど）
 ├── pmp/                   # PMP試験対策（ECO、ハンドブック要点）
